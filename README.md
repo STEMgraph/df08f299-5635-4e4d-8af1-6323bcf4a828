@@ -1,6 +1,7 @@
 <!---
 {
   "id": "df08f299-5635-4e4d-8af1-6323bcf4a828",
+  "teaches": "Sizes of Built-in Datatypes in C",
   "depends_on": ["0b6b3ce8-418e-4900-ae42-a6d068389a12"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-07-03",
